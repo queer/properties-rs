@@ -1,0 +1,6 @@
+[package]
+name = "config-parser"
+version = "0.1.0"
+authors = ["Amy Null <amy@willnot.date>"]
+
+[dependencies]
